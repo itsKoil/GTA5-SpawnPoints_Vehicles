@@ -8,6 +8,7 @@
         * It's very well spread across the whole map.
         * Includes parking lots, side street parking, etc.
         * It's NOT a complete list.
+        * It's NOT a perfect list.
     * No emergency, no military, and no police vehicle spawns.
     * There are a few boat spawns.
     * There are heli, and possibly plane spawns.
