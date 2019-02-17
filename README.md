@@ -1,7 +1,7 @@
 # GTA5-SpawnPoints_Vehicles
 * Parking spots for vehicles in GTA5.
 * Created for other developers to use in their scripts for platforms like RageMP or FiveM to customize spawning.
-* Data was collected via scripts, driving around and capturing naturally spawning vechiles over 16+ hours.
+* Data was collected via scripts, driving around and capturing naturally spawning vehicles over 16+ hours.
 
 ## Notes
     * There are over 1,500 entries.
